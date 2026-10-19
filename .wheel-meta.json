@@ -1,0 +1,22 @@
+{
+  "wheel_id": 475,
+  "structure": "umbrella",
+  "slug": "springfieldlakesgaragedoors-103",
+  "project": "garage-door-repairs-springfield-lakes-pros-and-cons-3a636e514e2",
+  "parent_t1_ref": "springfieldlakesgaragedoors-162",
+  "node_role": "feeder",
+  "money_target": "springfieldlakesgaragedoors.com.au",
+  "primary_kw": "garage door repairs springfield lakes pros and cons",
+  "intended_url": "http://garage-door-repairs-springfield-lakes-pros-and-cons-3a636e514e2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "f23d9a9d10f9c9b5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/springfieldlakesgaragedoors-162/",
+      "anchor": "garage door repairs springfield lakes checklist explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
